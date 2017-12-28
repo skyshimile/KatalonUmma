@@ -4,56 +4,6 @@
 <html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
 <head>
 	<body>
-        <div class="collapse navbar-collapse" id="bs-navbar-main-collapse">
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="https://www.katalon.com/features">Features</a>
-                </li>
-                <li class="kat-dropdown dropdown">
-                                        <a href="https://www.katalon.com/resources-center/" class="dropdown-toggle"
-                       data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources</a>
-                    <ul class="dropdown-menu">
-                        <li><a href="https://www.katalon.com/resources-center/tutorials/">Tutorials</a></li>
-                        <li><a href="https://www.katalon.com/resources-center/blog/">Blog</a></li>
-                        <li><a href="https://www.katalon.com/videos/">Videos</a></li>
-                        <li>
-                            <a href="https://www.katalon.com/case-studies">Case Studies</a>
-                        </li>
-                        <li>
-                            <a href="https://docs.katalon.com/display/KD" target="_blank">Documentation</a>
-                        </li>
-                        <li>
-                            <a href="http://api-docs.katalon.com/studio/v5.2.0.1/api/index.html" target="_blank">API Reference</a>
-                        </li>
-                        <li><a href="https://www.katalon.com/faqs">FAQs</a></li>
-                    </ul>
-                </li>
-                <!-- <li class="kat-dropdown dropdown">
-                    <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
-                       aria-expanded="false">Support</a>
-                    <ul class="dropdown-menu">
-                        
-                        <li><a href="#submit-ticket">Submit Ticket</a></li>
-                        <li><a href="https://forum.katalon.com/entry/jsconnect?client_id=katalon-studio&amp;Target=%2F" target="_blank">Forum</a></li>
-                    </ul>
-                </li> -->
-                <li><a href="https://forum.katalon.com/entry/jsconnect?client_id=katalon-studio&amp;Target=%2F" target="_blank">Forum</a></li>
-                <li>
-                    <a href="https://www.kms-technology.com/katalon-services" target="">Services</a>
-                </li>
-                <li class="btn-join-beta">
-                    <a id="download-btn-header" href="#katalon-download" class="btn btn-download btn-top"
-                       onclick="kat.clickDownloadBtn('Navigation Bar')">Download</a>
-                </li>
-                <!-- <li>
-                  <a href="#" class="active">Sign in</a>
-                </li> -->
-                <li><a class="page-scroll" href="#katalon-login" title="Sign in">Sign in</a></li>            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container -->
-</nav>
 
 <section id="category-header">
     <div class="container">
