@@ -1,10 +1,10 @@
-<___#KATALONUMMA__>
+__#KATALONUMMA
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
 
 <details open>
 <summary>
-	
-<!DOCTYPE html>
-<html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
 <head>
 	<body>
 	  <span style="font-weight: 400;"> Setup a mobile app testing project for Katalon Studio on macOS.</span></p>
@@ -166,6 +166,7 @@ https://raw.githubusercontent.com/Homebrew/install/master/install)"</span></code
 </html>
    
 </summary>
+
 <br>
 Well, you asked for it!
 <details>
