@@ -164,12 +164,5 @@ https://raw.githubusercontent.com/Homebrew/install/master/install)"</span></code
                 </div>
               </div>
             </div>
-            <div class="col-md-12 relative-posts">
-              <div class="col-md-4">
-    <div class="post-container">
-        <div class="post-meta-thumb">
-                                        
-
-
-</body>
+	</body>
 </html>
