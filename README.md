@@ -7,14 +7,13 @@
 <summary> <blockquote>
 <head>
 	<body>
-	  <span style="font-weight: 400;"> Setup a mobile app testing project for Katalon Studio on macOS.</span></p>
+<span style="font-weight: 400;"> Setup a mobile app testing project for Katalon Studio on macOS.</span></p>
 <h2><b>1. Setup Prerequisites</b></h2>
 <p><span style="font-weight: 400;">Katalon Studio requires the latest installation of </span><a href="http://appium.io/"><span style="font-weight: 400;">Appium</span></a>
 	<span style="font-weight: 400;"> and </span>
 	<a href="https://nodejs.org/en/">
 		<span style="font-weight: 400;">Node.js</span></a>
 	<span style="font-weight: 400;">. Please setup as the following steps:</span></p>
-
 <li style="font-weight: 400;"><span style="font-weight: 400;">Install </span>
 <a href="http://brew.sh/"><span style="font-weight: 400;">Homebrew</span></a>
 <span style="font-weight: 400;"> from </span>
@@ -175,6 +174,6 @@ https://raw.githubusercontent.com/Homebrew/install/master/install)"</span></code
 </html>
 	</blockquote></summary>
 <br>
-NExt>
+Next
 <details>
 
