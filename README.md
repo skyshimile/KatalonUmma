@@ -166,4 +166,6 @@ https://raw.githubusercontent.com/Homebrew/install/master/install)"</span></code
 	</body>
 </html>
 	</blockquote>
+	</summary>
+</details>
 
