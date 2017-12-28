@@ -35,4 +35,4 @@ You will need to install and configure Xcode in case of testing on iOS devices. 
 
 </ul>
 
-<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25103608/Add-acocunt-in-Xcode.png" border="1px#000 solid" align="center" />
+<img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25103608/Add-acocunt-in-Xcode.png" border="5px #000 solid" align="center" />
