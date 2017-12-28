@@ -5,6 +5,7 @@ __#KATALONUMMA
 
 <details open>
 <summary>
+	<blockquote>
 <head>
 	<body>
 	  <span style="font-weight: 400;"> Setup a mobile app testing project for Katalon Studio on macOS.</span></p>
@@ -164,9 +165,5 @@ https://raw.githubusercontent.com/Homebrew/install/master/install)"</span></code
   	</div>
 	</body>
 </html>
-	
-<details open>
-<summary>Want to ruin the surprise?</summary>
-
-<details>
+	</blockquote>
 
