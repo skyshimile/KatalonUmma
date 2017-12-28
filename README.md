@@ -53,9 +53,7 @@ You will need to install and configure Xcode in case of testing on iOS devices. 
    
    <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25104007/Select-target-WebDriverAgentLib.png" border="5px #000 solid" align="left" />
    
-   <li>Then on Xcode’s menu bar, select <b>Product > Build</b> </li>
-   
- <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25104038/Select-Build.png" border="5px #000 solid" align="left" />
+   <li>Then on Xcode’s menu bar, select <b>Product > Build</b> </li> <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25104038/Select-Build.png" border="5px #000 solid" align="left" />
  
    <li>Repeat the last two steps for WebDriverAgentRunner</li>
    
@@ -67,16 +65,13 @@ You will need to install and configure Xcode in case of testing on iOS devices. 
  
  </ul>
 
-   If the following dialog is shown, select Always Allow
-
- <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25104200/Always-allow.png" border="5px #000 solid" align="left" />
+   If the following dialog is shown, select Always Allow <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25104200/Always-allow.png" border="5px #000 solid" align="left" />
  
  
- <li>You should be able to see Listening on USB in the build output as below</li>
- <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25104232/Build-Output.png" border="5px #000 solid" align="left" />
+ <li>You should be able to see Listening on USB in the build output as below</li> <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25104232/Build-Output.png" border="5px #000 solid" align="left" />
  
  
- //<img src="" border="5px #000 solid" align="left" /><img src="" border="5px #000 solid" align="left" /><img src="" border="5px #000 solid" align="left" />
+<img src="" border="5px #000 solid" align="left" /><img src="" border="5px #000 solid" align="left" /><img src="" border="5px #000 solid" align="left" />
  
  
    
