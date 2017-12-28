@@ -1,4 +1,4 @@
-__#KATALONUMMA
+<__#KATALONUMMA___>
 
 <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
@@ -6,8 +6,7 @@ __#KATALONUMMA
 <details open>
 <summary>
 	<blockquote>
-<head>
-	<body>
+		
 	  <span style="font-weight: 400;"> Setup a mobile app testing project for Katalon Studio on macOS.</span></p>
 <h2><b>1. Setup Prerequisites</b></h2>
 <p><span style="font-weight: 400;">Katalon Studio requires the latest installation of </span><a href="http://appium.io/"><span style="font-weight: 400;">Appium</span></a><span style="font-weight: 400;"> and </span><a href="https://nodejs.org/en/"><span style="font-weight: 400;">Node.js</span></a><span style="font-weight: 400;">. Please setup as the following steps:</span></p>
@@ -163,7 +162,6 @@ https://raw.githubusercontent.com/Homebrew/install/master/install)"</span></code
   		</div>
 		</div>
   	</div>
-	</body>
 </html>
 	</blockquote>
 	</summary>
