@@ -164,17 +164,9 @@ https://raw.githubusercontent.com/Homebrew/install/master/install)"</span></code
   	</div>
 	</body>
 </html>
-   
-</summary>
-
-<br>
-Well, you asked for it!
-<details>
 	
-	
-	<details open>
+<details open>
 <summary>Want to ruin the surprise?</summary>
-<br>
-Well, you asked for it!
+
 <details>
 
