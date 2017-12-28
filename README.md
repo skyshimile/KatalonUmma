@@ -158,10 +158,6 @@ https://raw.githubusercontent.com/Homebrew/install/master/install)"</span></code
 <p><span style="font-weight: 400;">The added libraries can be imported and referenced in the </span><a href="https://docs.katalon.com/display/KD/Test+Case+Script+View"><span style="font-weight: 400;">Script View</span></a><span style="font-weight: 400;"> of Katalon Studio:</span></p>
 <p><img class="init-size alignnone wp-image-1832 size-full" src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25111249/Script-view-Katalon-Studio1.png" alt="Script-view-Katalon-Studio1" width="758" height="364" srcset="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25111249/Script-view-Katalon-Studio1.png 758w, https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25111249/Script-view-Katalon-Studio1-300x144.png 300w" sizes="(max-width: 758px) 100vw, 758px" /></p>
 
-                        </div>
-                    </div>
-                </div>
-              </div>
-            </div>
-	</body>
+  </div>
+</body>
 </html>
