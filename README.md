@@ -5,10 +5,13 @@
 
 <head>
 	<body> 
-		<div class="dropdown">
-  <button onclick="myFunction()" class="dropbtn">Dropdown</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="#">Link 1</a>
+ <div class="navbar">
+  <div class="Prepare Your Katalon">
+    <button class="dropbtn">Dropdown
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>		
 <span style="font-weight: 400;"><br />
 </span>
 	  <span style="font-weight: 400;"> Setup a mobile app testing project for Katalon Studio on macOS.</span></p>
@@ -162,7 +165,9 @@ https://raw.githubusercontent.com/Homebrew/install/master/install)"</span></code
 </ul>
 <p><span style="font-weight: 400;">The added libraries can be imported and referenced in the </span><a href="https://docs.katalon.com/display/KD/Test+Case+Script+View"><span style="font-weight: 400;">Script View</span></a><span style="font-weight: 400;"> of Katalon Studio:</span></p>
 <p><img class="init-size alignnone wp-image-1832 size-full" src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25111249/Script-view-Katalon-Studio1.png" alt="Script-view-Katalon-Studio1" width="758" height="364" srcset="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25111249/Script-view-Katalon-Studio1.png 758w, https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25111249/Script-view-Katalon-Studio1-300x144.png 300w" sizes="(max-width: 758px) 100vw, 758px" /></p>
-
+    </div>
+  </div>
+</div>
   </div>
 </body>
 </html>
