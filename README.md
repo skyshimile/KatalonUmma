@@ -1,7 +1,8 @@
 # KatalonUmma
 <p>A sample project for Mobile automation</p>
 <ul>
-  <font size="large"><li>1. Setup Prerequisites</li></font>
+ <li> <font size="large"> 1. Setup Prerequisites </font> </li>
+  
           Configuration
 
 Katalon Studio requires the latest installation of Appium and Node.js. Please setup as the following steps:
