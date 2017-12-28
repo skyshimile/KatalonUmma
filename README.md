@@ -1,18 +1,17 @@
 <___#KATALONUMMA__>
 
-
-  </div>
-</div> 
 <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
+
 <head>
-	<body>
-          <div class="dropdown">
+	<body> 
+		<div class="dropdown">
   <button onclick="myFunction()" class="dropbtn">Dropdown</button>
   <div id="myDropdown" class="dropdown-content">
-<a href="#>	  
-</span><span style="font-weight: 400;"><br />
-</span><span style="font-weight: 400;"> Setup a mobile app testing project for Katalon Studio on macOS.</span></p>
+    <a href="#">Link 1</a>
+<span style="font-weight: 400;"><br />
+</span>
+	  <span style="font-weight: 400;"> Setup a mobile app testing project for Katalon Studio on macOS.</span></p>
 <h2><b>1. Setup Prerequisites</b></h2>
 <p><span style="font-weight: 400;">Katalon Studio requires the latest installation of </span><a href="http://appium.io/"><span style="font-weight: 400;">Appium</span></a><span style="font-weight: 400;"> and </span><a href="https://nodejs.org/en/"><span style="font-weight: 400;">Node.js</span></a><span style="font-weight: 400;">. Please setup as the following steps:</span></p>
 <ul>
