@@ -5,12 +5,12 @@
 
 <details open>
 <summary>
-	<blockquote>
+	
+<blockquote>
 <head>
 	<body>
 	  <span style="font-weight: 400;"> Setup a mobile app testing project for Katalon Studio on macOS.</span></p>
 <h2><b>1. Setup Prerequisites</b></h2>
-	
 <p><span style="font-weight: 400;">Katalon Studio requires the latest installation of </span><a href="http://appium.io/"><span style="font-weight: 400;">Appium</span></a>
 	<span style="font-weight: 400;"> and </span>
 	<a href="https://nodejs.org/en/">
@@ -148,14 +148,13 @@ https://raw.githubusercontent.com/Homebrew/install/master/install)"</span></code
 <img class="init-size wp-image-1815 alignleft" src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25104436/Choose-your-application-file.png" alt="Choose-your-application-file" width="548" height="408" srcset="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25104436/Choose-your-application-file.png 624w, https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25104436/Choose-your-application-file-300x224.png 300w" sizes="(max-width: 548px) 100vw, 548px" /></p>
 <p>4. If installed successfully, the application will appear in the Installed Apps section as shown below</p>
 <p><img class="init-size wp-image-1828 alignleft" src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25105538/Installed-successfully.png" alt="Installed-successfully" width="549" height="408" srcset="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25105538/Installed-successfully.png 624w, https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25105538/Installed-successfully-300x223.png 300w" sizes="(max-width: 549px) 100vw, 549px" /></p>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
+
+
+
+
+
+
+
 <h2><b>3. Desired Capabilities</b></h2>
 <p><span style="font-weight: 400;">You can modify extra </span><b>Desired Capabilities</b><span style="font-weight: 400;"> when executing automation test in Katalon Studio. </span></p>
 <p><span style="font-weight: 400;">To define Desired Capabilities for local execution using Chrome, Firefox, IE, Safari or Edge, please access </span><b>Project &gt; Settings &gt; Execution &gt; Default &gt; Mobile &gt; iOS</b><span style="font-weight: 400;"> (or Android).</span></p>
