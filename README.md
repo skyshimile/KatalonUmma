@@ -4,37 +4,7 @@
 <html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
 <head>
 	<body>
-
-<section id="category-header">
-    <div class="container">
-        <div class="row cat-header">
-            <h3 class="brand-heading">Tutorials</h3>        </div>
-
-                    <div class="row">
-                <div class="sub-cats">
-                    <a class="card page-scroll active" href="https://www.katalon.com/resources-center/tutorials/#get-started"><span class=""></span>Get Started</a><a class="card page-scroll" href="https://www.katalon.com/resources-center/tutorials/#test-design"><span class="two"></span>Test Design</a><a class="card page-scroll" href="https://www.katalon.com/resources-center/tutorials/#test-execution"><span class="three"></span>Test Execution</a><a class="card page-scroll" href="https://www.katalon.com/resources-center/tutorials/#advanced"><span class="five"></span>Advanced</a><a class="card page-scroll" href="https://www.katalon.com/resources-center/tutorials/#configurations"><span class="six"></span>Configurations</a>                </div>
-            </div>
-            </div>
-</section>
-
-<!-- We will have the same content for all type of post, so using this one directly -->
-
-          <div class="main-content blog-detail">
-            <div class="container">
-              <div class="row">
-                
-
-              <div class="col-md-12">
-                <div class="post-container detail" id="blog-view">
-                  <div class="post-meta-author big">
-                  </div>
-                  <!-- <div class="post-meta-thumb">
-                                          <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/03/09132859/Katalon-Studio-iOS-and-Android-setup-on-macOS.jpg" class="img-responsive" />
-                                      </div> -->
-
-                  <div class="post-content-container">
-                    <a href="#" class="post-title" ><h1>Setting up Mobile automation project in macOS</h1></a>                    <div class="post-content">
-                      <p><span style="font-weight: 400;">Using Katalon Studio, a tester can design mobile app automation tests for both Android and iOS to run on physical devices, cloud services or emulators.</span><span style="font-weight: 400;"><br />
+                  
 </span><span style="font-weight: 400;"><br />
 </span><span style="font-weight: 400;">This tutorial explains how to setup a mobile app testing project for Katalon Studio on macOS. It assumes that you are familiar with automated testing.</span></p>
 <h2><b>1. Setup Prerequisites</b></h2>
