@@ -3,9 +3,6 @@
 <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
 
-<details open>
-<summary>
-	
 <blockquote>
 <head>
 	<body>
