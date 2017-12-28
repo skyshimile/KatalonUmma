@@ -1,7 +1,7 @@
 # KatalonUmma
 <p>A sample project for Mobile automation</p>
 <ul>
- <li> <font size="large"> 1. Setup Prerequisites </font> </li>
+ <li> 1. Setup Prerequisites </li>
 
 Katalon Studio requires the latest installation of Appium and Node.js. Please setup as the following steps:
 
@@ -26,7 +26,7 @@ Katalon Studio requires the latest installation of Appium and Node.js. Please se
     npm install -g appium
 
 
-<li>2. Set Appium Directory to “/usr/local/lib/node_modules/appium” in Katalon Preferences (from Katalon menu, go to Preferences > Katalon > Mobile)</li>
+<li>Set Appium Directory to “/usr/local/lib/node_modules/appium” in Katalon Preferences (from Katalon menu, go to Preferences > Katalon > Mobile)</li>
 
 You will need to install and configure Xcode in case of testing on iOS devices. Please set up Xcode as follows:
 
@@ -34,7 +34,7 @@ You will need to install and configure Xcode in case of testing on iOS devices. 
 
 
 
-     <img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25103608/Add-acocunt-in-Xcode.png" border="5px #000 solid" align="left" />
+     <li><img src="https://d1h3p5fzmizjvp.cloudfront.net/wp-content/uploads/2017/07/25103608/Add-acocunt-in-Xcode.png" border="5px #000 solid" align="left" /> </li>
      
 
 
